@@ -1,2 +1,2 @@
-# final-vue.js
+# final-ionic
 this is final project
